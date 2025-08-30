@@ -10,7 +10,7 @@
 #   Please provide your github token and rest api to the script as input
 #
 #
-#
+# made changes to create a pull request.
 ################################
 
 if [ ${#@} -lt 2 ]; then
