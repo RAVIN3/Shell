@@ -1,4 +1,4 @@
 # Shell
 Schell Scripts
 
-shell script for reference.
+shell script for reference and practice.
